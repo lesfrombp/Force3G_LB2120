@@ -12,7 +12,7 @@ It should respond with "Connected to 192.168.5.1"
 Type AT$QCNSP=2,0,2 and press Enter
 It should respond with "OK"
 You will notice your modem rebooting.
-You have now be locked to 3G.
+You will now be locked to 3G.
 
 To undo this, just reboot the device or you can send AT$QCNSP=0,0,0
 
