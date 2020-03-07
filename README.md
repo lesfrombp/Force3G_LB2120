@@ -18,7 +18,11 @@ To undo this, just reboot the device or you can send AT$QCNSP=0,0,0
 
 
 https://imgur.com/a/9ExOadW - Shows I am connected to LTE before this process
+
 https://imgur.com/a/aCvTNqq - Speed on LTE
+
 https://imgur.com/a/xn2XBEN - Shows I am connected to 3G
+
 https://imgur.com/a/ohkZBfc - Speed on 3G
+
 https://imgur.com/a/UlIBign - This is what your terminal should look like. The red boxes is what you will be typing
